@@ -84,6 +84,7 @@ int main(int argc, char** argv) {
 }
 
 ```
+![运行结果](img/result1.png) 
 
 
 ```
@@ -149,7 +150,7 @@ int main(int argc, char** argv)
 }
 
 ```
-
+![运行结果](img/result2.png) 
 ```
 #include <iostream>		
 using namespace std;
@@ -197,3 +198,4 @@ int main()
 
 
 ```
+![运行结果](img/result3.png) 
