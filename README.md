@@ -1,4 +1,10 @@
 # ComputerGraphicLab1
+
+## IDE
+
+Visual Studio 2022
+运行时候选择x86
+
 ## 导库  
 
 glut -> #include<glut.h>  
